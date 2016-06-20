@@ -1,0 +1,3 @@
+[submodule "angular-dynamic-html"]
+	path = angular-dynamic-html
+	url = git@github.com:rachael/angular-dynamic-html.git
